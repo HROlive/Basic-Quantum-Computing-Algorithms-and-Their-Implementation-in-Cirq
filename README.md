@@ -1,0 +1,2 @@
+# Basic-Quantum-Computing-Algorithms-and-Their-Implementation-in-Cirq
+A course that includes topics such as an introduction to quantum computing and its applications (e.g., quantum teleportation), quantum entanglement and superposition (shown on Bernstein-Vazirani and Simon's algorithms), Grover's algorithm, the quantum Fourier transform and practical examples of its use (quantum phase estimation, Shor's algorithm).
