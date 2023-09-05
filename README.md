@@ -1,6 +1,6 @@
-# Basic Quantum Computing Algorithms and Their Implementation in Cirq
-
-![Workshop](images/banner.png)
+<p align="center">
+  <img src="images/banner.png">
+</p>
 
 ## Table of Contents
 1. [Description](#description)
