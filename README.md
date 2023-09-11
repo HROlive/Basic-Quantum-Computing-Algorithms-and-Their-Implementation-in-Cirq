@@ -23,4 +23,4 @@ All necessary information, links, lesson slides, and exercises for the workshop 
    
 <a name="certificate"></a>
 ## Certificate
-The certificate can be found [here]().
+The certificate can be found [here](https://github.com/HROlive/Basic-Quantum-Computing-Algorithms-and-Their-Implementation-in-Cirq/blob/main/images/certificate.pdf).
